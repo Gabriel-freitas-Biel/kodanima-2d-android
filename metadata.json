@@ -1,0 +1,6 @@
+{
+  "name": "Kodanima 2D",
+  "description": "Suíte móvel de animação 2D de alta performance inspirada no Kodanima2D com motor gráfico acelerado, camadas, cebola (onion skin), exportação GIF/PNG e controles de toque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
